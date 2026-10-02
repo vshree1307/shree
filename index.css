@@ -1,0 +1,13 @@
+ .u-section-1 {
+  background-image: url("images/WhatsAppImage2026-09-25at8.28.32AM.jpeg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 410px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 400px;
+  }
+}
